@@ -18,6 +18,22 @@ footer {
   font-family: 'Indie Flower', cursive;
 }
 
+a:link {
+  color: white;    
+  text-decoration: none;
+}
+a:visited {
+  color: white;   
+  text-decoration: none;
+}
+a:hover {
+  color: turquoise;
+  text-decoration: none;
+}
+a:active {
+  color: black;    
+}
+
 .w {
   background-image: url(./images/tom1.png);
 }
